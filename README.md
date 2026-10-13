@@ -1,8 +1,10 @@
-
 <h2>Book Scraper</h2>
 <p>
   <b>Description:</b> This project is a .NET console application that scrapes the full catalog of <a href="http://books.toscrape.com">books.toscrape.com</a>, stores every run in a local SQLite database and lets you analyze the data through an interactive menu with reports that can be exported to CSV or JSON.
 </p>
+
+<img width="1077" height="803" alt="Captura desde 2026-10-13 00-05-32" src="https://github.com/user-attachments/assets/1bd5ee36-9553-4b1a-b202-961e00c62185" />
+
 
 <h3>Features:</h3>
 <ul>
@@ -59,4 +61,4 @@ tests/BookScraper.Tests/  parser tests with saved HTML fixtures, report tests on
 </ul>
 
 <h3>Sample output:</h3>
-<img src="https://github.com/user-attachments/assets/bf9bbd97-2968-4173-a6f4-af3b92ed447e"/>
+<img width="1247" height="842" alt="Captura desde 2026-10-13 00-10-32" src="https://github.com/user-attachments/assets/e8dfb8c0-11f2-412a-81cc-f4b98e8f37ce" />
